@@ -1,4 +1,4 @@
-# Block Open Source
+# Block’s Open Source Policies
 
 <a href="https://square.com/"><img src="profile/banner.png"></a>
 

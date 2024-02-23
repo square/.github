@@ -4,5 +4,5 @@
 
 [Square Careers](https://careers.squareup.com/)
 
-[Block's Open Source Policies](https://github.com/square/.github/blob/main/BLOCKS_OPEN_SOURCE_POLICIES.md)
+[Block’s Open Source Policies](https://github.com/square/.github/blob/main/BLOCKS_OPEN_SOURCE_POLICIES.md)
 
