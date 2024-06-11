@@ -1,4 +1,4 @@
-<a href="https://square.com/"><img src="profile/banner.png"></a>
+<a href="https://square.com/"><img src="https://raw.githubusercontent.com/square/.github/main/profile/banner.png"></a>
 
 [Square Corner Blog](https://developer.squareup.com/blog/)
 
